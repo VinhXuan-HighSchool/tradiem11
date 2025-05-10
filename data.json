@@ -1,0 +1,26 @@
+{
+    "toan": [
+        "Toán",
+        "toan_11"
+    ],
+    "ly": [
+        "Vật lý",
+        "ly_11"
+    ],
+    "hoa": [
+        "Hóa học",
+        "hoa_11"
+    ],
+    "sinh": [
+        "Sinh học",
+        "sinh_11"
+    ],
+    "tin": [
+        "Tin học",
+        "tin_12"
+    ],
+    "congnghe": [
+        "Công nghệ",
+        "congnghe_11"
+    ]
+}
